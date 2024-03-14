@@ -3,7 +3,7 @@ prueba de edición xd
 Este es un script de Python diseñado para ----------- 
 
 ## Uso
-
+...
 
 ## Salida
 
