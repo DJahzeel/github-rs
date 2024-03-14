@@ -1,5 +1,5 @@
 # Titulo 
-prueba de edición xd 
+prueba 2
 Este es un script de Python diseñado para ----------- 
 
 ## Uso
